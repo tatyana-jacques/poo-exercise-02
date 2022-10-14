@@ -72,7 +72,7 @@ namespace exercicio_classe01
         {
             if (_codigo == codigo)
             {
-                Console.WriteLine("Produto verificado.");
+                Console.WriteLine($"Produto verificado: {_nome}.");
             }
             else
             {

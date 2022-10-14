@@ -1,6 +1,5 @@
 ﻿using exercicio_classe01;
 
-
 Produto produto01 = new();
 produto01.Codigo = 456789;
 produto01.Nome = "Cafeteira Walita";
@@ -26,3 +25,6 @@ produto01.Alterar(160.50m);
 
 produto01.Excluir(10);
 Console.WriteLine($"Quatidade de produto em estoque: {produto01.QuantidadeEstoque}.");
+
+produto01.Pesquisar(456789);
+produto01.Pesquisar(1234566);
