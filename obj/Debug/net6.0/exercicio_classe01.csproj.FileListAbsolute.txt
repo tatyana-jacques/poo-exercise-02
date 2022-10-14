@@ -1,0 +1,15 @@
+E:\DEVinHouse\Modulo02\exercicio_classe01\bin\Debug\net6.0\exercicio_classe01.exe
+E:\DEVinHouse\Modulo02\exercicio_classe01\bin\Debug\net6.0\exercicio_classe01.deps.json
+E:\DEVinHouse\Modulo02\exercicio_classe01\bin\Debug\net6.0\exercicio_classe01.runtimeconfig.json
+E:\DEVinHouse\Modulo02\exercicio_classe01\bin\Debug\net6.0\exercicio_classe01.dll
+E:\DEVinHouse\Modulo02\exercicio_classe01\bin\Debug\net6.0\exercicio_classe01.pdb
+E:\DEVinHouse\Modulo02\exercicio_classe01\obj\Debug\net6.0\exercicio_classe01.csproj.AssemblyReference.cache
+E:\DEVinHouse\Modulo02\exercicio_classe01\obj\Debug\net6.0\exercicio_classe01.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEVinHouse\Modulo02\exercicio_classe01\obj\Debug\net6.0\exercicio_classe01.AssemblyInfoInputs.cache
+E:\DEVinHouse\Modulo02\exercicio_classe01\obj\Debug\net6.0\exercicio_classe01.AssemblyInfo.cs
+E:\DEVinHouse\Modulo02\exercicio_classe01\obj\Debug\net6.0\exercicio_classe01.csproj.CoreCompileInputs.cache
+E:\DEVinHouse\Modulo02\exercicio_classe01\obj\Debug\net6.0\exercicio_classe01.dll
+E:\DEVinHouse\Modulo02\exercicio_classe01\obj\Debug\net6.0\refint\exercicio_classe01.dll
+E:\DEVinHouse\Modulo02\exercicio_classe01\obj\Debug\net6.0\exercicio_classe01.pdb
+E:\DEVinHouse\Modulo02\exercicio_classe01\obj\Debug\net6.0\exercicio_classe01.genruntimeconfig.cache
+E:\DEVinHouse\Modulo02\exercicio_classe01\obj\Debug\net6.0\ref\exercicio_classe01.dll
