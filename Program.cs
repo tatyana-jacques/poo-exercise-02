@@ -20,6 +20,9 @@ Console.Write($"Data de cadastro: {produto01.DataCadastro}. ");
 Console.WriteLine();
 
 produto01.Inserir(3);
-Console.WriteLine($"Quatidade de produto no estoque: {produto01.QuantidadeEstoque}.");
+Console.WriteLine($"Quatidade de produto em estoque: {produto01.QuantidadeEstoque}.");
 
 produto01.Alterar(160.50m);
+
+produto01.Excluir(10);
+Console.WriteLine($"Quatidade de produto em estoque: {produto01.QuantidadeEstoque}.");
