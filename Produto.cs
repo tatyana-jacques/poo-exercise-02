@@ -61,6 +61,7 @@ namespace exercicio_classe01
         public void Alterar(decimal novoPrecoVenda)
         {
             _preco_venda = novoPrecoVenda;
+            Console.WriteLine($"Preço de venda alterado com sucesso. Novo preço: {_preco_venda}");
         }
 
         public void Excluir(int quantidade)
