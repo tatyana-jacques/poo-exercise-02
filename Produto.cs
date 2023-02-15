@@ -4,7 +4,7 @@ namespace exercicio_classe01
     public class Produto
     {
         private int _codigo;
-        private string _nome;
+        private string? _nome;
         private decimal _preco_compra;
         private decimal _preco_venda;
         private int _quantidade_estoque;
@@ -55,7 +55,7 @@ namespace exercicio_classe01
 
         public void Inserir(int quantidade)
         {
-            _quantidade_estoque+=quantidade;
+            _quantidade_estoque += quantidade;
         }
 
         public void Alterar(decimal novoPrecoVenda)
@@ -66,7 +66,7 @@ namespace exercicio_classe01
 
         public void Excluir(int quantidade)
         {
-            _quantidade_estoque-=quantidade;
+            _quantidade_estoque -= quantidade;
         }
         public void Pesquisar(int codigo)
         {
